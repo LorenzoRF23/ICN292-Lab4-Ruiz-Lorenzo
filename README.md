@@ -9,8 +9,9 @@ El laboratorio pide rehacer en MySQL 8 la base `austral` de una editorial, Austr
 | Archivo | Contenido |
 | --- | --- |
 | `ICN292-Lab4-Ruiz-Lorenzo.sql` | creación de las tablas, carga de datos y las 10 consultas |
-| `ICN292-Lab4-Ruiz-Lorenzo.docx` | informe en Word |
+| `ICN292-Lab4-Ruiz-Lorenzo.tex` | informe en LaTeX |
 | `ICN292-Lab4-Ruiz-Lorenzo.pdf` | el mismo informe en PDF |
+| `imagenes/` | logos y capturas que usa el `.tex` |
 | `ICN292-Lab4-Ruiz-Lorenzo.png` | modelo entidad-relación (Reverse Engineer de Workbench) |
 
 ## Cómo leerlo
